@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Ronalde/static/css/main.1601a9d2.css",
-    "main.js": "/Ronalde/static/js/main.8636a68f.js",
+    "main.js": "/Ronalde/static/js/main.a90c84ed.js",
     "static/js/787.85ed7ac4.chunk.js": "/Ronalde/static/js/787.85ed7ac4.chunk.js",
     "index.html": "/Ronalde/index.html",
     "main.1601a9d2.css.map": "/Ronalde/static/css/main.1601a9d2.css.map",
-    "main.8636a68f.js.map": "/Ronalde/static/js/main.8636a68f.js.map",
+    "main.a90c84ed.js.map": "/Ronalde/static/js/main.a90c84ed.js.map",
     "787.85ed7ac4.chunk.js.map": "/Ronalde/static/js/787.85ed7ac4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1601a9d2.css",
-    "static/js/main.8636a68f.js"
+    "static/js/main.a90c84ed.js"
   ]
 }
